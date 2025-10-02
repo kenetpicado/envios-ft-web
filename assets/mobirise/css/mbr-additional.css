@@ -1428,6 +1428,13 @@ a {
 .cid-ujRmZyX9ML .bg-instagram:hover {
   background: #bd005c;
 }
+.cid-ujRmZyX9ML .bg-tiktok {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-ujRmZyX9ML .bg-tiktok:hover {
+  background: #000000;
+}
 .cid-ujRmZyX9ML .iconfont-wrapper {
   display: inline-block;
   font-size: 32px;
